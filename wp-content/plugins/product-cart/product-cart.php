@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Product Cart
  * Description: WooCommerce Product Loop widget with gallery slider and lightbox.
- * Version: 1.1.0
+ * Version: 3.1.0
  * Requires Plugins: elementor, woocommerce
  * Text Domain: product-cart
  */
